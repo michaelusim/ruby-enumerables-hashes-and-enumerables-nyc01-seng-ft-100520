@@ -7,6 +7,6 @@
 # }
 
 def select_winner(passengers)
-  print passengers
+  return passengers
   
 end
